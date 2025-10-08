@@ -1,0 +1,142 @@
+[
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "png-transparent-red-fire-extinguisher-fire-extinguisher-fire-protection-firefighting-fire-safety-red-fire-extinguisher-technic-fire-alarm-product-thumbnail.png"
+  },
+  {
+    "className": "OxygenTank",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "pexels-rom-fotgrafo-9409990_1750744098.jpg"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "OIP (1)_1750744133.jpeg"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "png-transparent-red-fire-extinguisher-fire-extinguisher-fire-protection-firefighting-fire-safety-red-fire-extinguisher-technic-fire-alarm-product-thumbnail_1750744181.png"
+  },
+  {
+    "className": "OxygenTank",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "pexels-rom-fotgrafo-9409990_1750752800.jpg"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000031_1750752840.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "2000000073_1750754309.png"
+  },
+  {
+    "className": "OxygenTank",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "2000000079_1750754426.png"
+  },
+  {
+    "className": "ToolBox",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000024_1750778079.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "OIP (1)_1750822953.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "png-transparent-red-fire-extinguisher-fire-extinguisher-fire-protection-firefighting-fire-safety-red-fire-extinguisher-technic-fire-alarm-product-thumbnail_1750822994.png"
+  },
+  {
+    "className": "OxygenTank",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "pexels-rom-fotgrafo-9409990_1750823033.png"
+  },
+  {
+    "className": "OxygenTank",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000031_1750823076.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000031_1750752840_1750823109.png"
+  }
+]

@@ -1,0 +1,31 @@
+# Python virtual environments
+/ENV_SETUP/
+/EDU/
+venv/
+*.pyc
+__pycache__/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-generated files
+# /new_user_images/
+# feedback.json
+# train_log.txt
+
+# --- CRUCIAL: IGNORE THE LARGE DATASET FOLDER ---
+data/
+feedback/
+new_user_images/
+predictions/
+
+
+/data/
+/feedback/
+/new_user_images/
+/predictions/

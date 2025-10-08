@@ -1,0 +1,25 @@
+streamlit>=1.37
+
+# Ultralytics + CPU-only PyTorch
+ultralytics==8.3.30
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+torchaudio==2.3.1+cpu
+
+# OpenCV: headless only (newest to “win” on path)
+opencv-python-headless==4.11.0.86
+
+# Core stack
+numpy==1.26.4
+pandas
+pillow
+pyyaml
+tqdm
+requests
+
+# Your libs
+plotly
+streamlit-webrtc
+av==10.0.0
+aiortc==1.7.0

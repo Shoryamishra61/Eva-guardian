@@ -1,0 +1,31 @@
+[2025-06-23 02:31:12] Starting a new training session from scratch (yolov8s.pt).
+[2025-06-23 02:31:13] Starting training for 2 epochs...
+[2025-06-23 02:35:08] Training completed.
+[2025-06-23 02:35:08] Running final validation on the best model...
+[2025-06-23 02:35:56] Validation complete. Final metrics are saved in the run directory.
+[2025-06-23 02:36:54] Starting a new training session from scratch (yolov8s.pt).
+[2025-06-23 02:36:55] Starting training for 50 epochs...
+[2025-06-23 03:38:48] Training completed.
+[2025-06-23 03:38:48] Running final validation on the best model...
+[2025-06-23 03:39:27] Validation complete. Final metrics are saved in the run directory.
+[2025-06-24 11:25:06] Starting a new training session from scratch (yolov8s.pt).
+[2025-06-24 11:25:07] Starting training for 100 epochs...
+[2025-06-24 13:39:21] Training completed.
+[2025-06-24 13:39:21] Running final validation on the best model...
+[2025-06-24 13:39:55] Final validation failed: CUDA out of memory. Tried to allocate 96.00 MiB. GPU 0 has a total capacity of 4.00 GiB of which 2.34 GiB is free. Of the allocated memory 593.53 MiB is allocated by PyTorch, and 250.47 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[2025-06-24 13:56:00] Starting FINAL training session with model: yolov8m.pt
+[2025-06-24 13:56:00] Training for 150 epochs with a batch size of 2.
+[2025-06-24 13:56:00] This run will be saved to: runs/detect\final_model_run
+[2025-06-25 03:07:58] Starting a new training session from scratch (yolov8s.pt).
+[2025-06-25 03:07:59] Starting training for 200 epochs...
+[2025-06-25 07:13:50] Training completed.
+[2025-06-25 07:13:50] Running final validation on the best model...
+[2025-06-25 07:14:31] Validation complete. Final metrics are saved in the run directory.
+[2025-06-25 11:35:44] Starting a new training session with model: yolov8m.pt
+[2025-06-25 11:35:44] Run name: final_run_20250625_113544
+[2025-06-25 11:35:44] Training for 150 epochs with a batch size of 2 and image size 736.
+[2025-06-25 17:21:49] Training session completed!
+[2025-06-25 17:21:49] Your best model and results are saved in: runs/detect\final_run_20250625_113544
+[2025-06-26 04:35:28] Starting a new training session with model: yolov8m.pt
+[2025-06-26 04:35:28] Run name: final_run_20250626_043528
+[2025-06-26 04:35:28] Training for 100 epochs with a batch size of 2 and image size 736.

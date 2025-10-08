@@ -1,0 +1,184 @@
+[
+  {
+    "source_image": "000000031_1750752840.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750859286.464294
+  },
+  {
+    "source_image": "000000031_1750823076.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750859967.841153
+  },
+  {
+    "source_image": "000000031.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750888274.3765113
+  },
+  {
+    "source_image": "000000031.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750888288.586258
+  },
+  {
+    "source_image": "000000031_1750823076.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750888370.3272495
+  },
+  {
+    "source_image": "000000031_1750823076.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750888786.6106262
+  },
+  {
+    "source_image": "000000031_1750823076.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750888961.17775
+  },
+  {
+    "source_image": "000000031_1750752840_1750823109.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750889219.4597654
+  },
+  {
+    "source_image": "000000031_1750752840.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750889405.6210868
+  },
+  {
+    "source_image": "000000031_1750752840.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750890761.9864357
+  },
+  {
+    "source_image": "000000031_1750823076.png",
+    "incorrectly_detected_as": "FireExtinguisher",
+    "bounding_box": [
+      88.4893798828125,
+      151.6132049560547,
+      255.40708923339844,
+      304.0478210449219
+    ],
+    "confidence": 0.5921238660812378,
+    "feedback_type": "false_positive",
+    "timestamp": 1750891901.8083096
+  },
+  {
+    "source_image": "000000024.png",
+    "incorrectly_detected_as": "ToolBox",
+    "bounding_box": [
+      109.17223358154297,
+      149.08688354492188,
+      261.40057373046875,
+      310.1963195800781
+    ],
+    "confidence": 0.6206611394882202,
+    "feedback_type": "false_positive",
+    "timestamp": 1750892101.7959702
+  },
+  {
+    "source_image": "000000024.png",
+    "incorrectly_detected_as": "ToolBox",
+    "bounding_box": [
+      109.17223358154297,
+      149.08688354492188,
+      261.40057373046875,
+      310.1963195800781
+    ],
+    "confidence": 0.6206611394882202,
+    "feedback_type": "false_positive",
+    "timestamp": 1750892154.2039213
+  },
+  {
+    "source_image": "000000024_1750778079.png",
+    "incorrectly_detected_as": "ToolBox",
+    "bounding_box": [
+      109.17223358154297,
+      149.08688354492188,
+      261.40057373046875,
+      310.1963195800781
+    ],
+    "confidence": 0.6206611394882202,
+    "feedback_type": "false_positive",
+    "timestamp": 1750892295.015342
+  }
+]

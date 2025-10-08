@@ -1,0 +1,62 @@
+[
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "Screenshot 2025-06-23 193138_1750856715.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000031_1750856865.png"
+  },
+  {
+    "className": "ToolBox",
+    "box_coordinates (simulated)": {
+      "x0": 100,
+      "y0": 150,
+      "x1": 250,
+      "y1": 300
+    },
+    "source_image": "000000031_1750856894.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "left": 100,
+      "top": 100,
+      "width": 150,
+      "height": 150
+    },
+    "source_image": "000000031_1750752840_1750889379.png"
+  },
+  {
+    "className": "FireExtinguisher",
+    "box_coordinates (simulated)": {
+      "left": 100,
+      "top": 100,
+      "width": 150,
+      "height": 150
+    },
+    "source_image": "000000031_1750752840_1750890786.png"
+  },
+  {
+    "className": "ToolBox",
+    "box_coordinates (simulated)": {
+      "left": 100,
+      "top": 100,
+      "width": 150,
+      "height": 150
+    },
+    "source_image": "000000031_1750823076_1750891926.png"
+  }
+]
