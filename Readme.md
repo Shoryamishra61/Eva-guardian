@@ -2,7 +2,7 @@
 
 ### Live Demo - https://codeclash-20-7htdzqnw3juzr8xw3m9aqc.streamlit.app/
 
-**🔍 A Submission for the Duality AI - Space Station Hackathon**
+🔍 A Submission for the Duality AI - Space Station Hackathon
 
 ---
 
